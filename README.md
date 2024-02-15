@@ -1,7 +1,7 @@
 ![Fullstack Software Engineer](https://i.postimg.cc/vmS7CBpB/github-banner.png)
 
 # 💫 About Me:
-I'm a Fullstack Software Engineer who loves building new projects and exploring new technologies while being challenged. Let's work together and give solutions to your problems.
+I'm a Software Engineer who loves building new projects and exploring new technologies while being challenged. Let's work together and give solutions to your problems.
 
 
 ## 🌐 Socials:
