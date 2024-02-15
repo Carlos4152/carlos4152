@@ -1,4 +1,4 @@
-![Fullstack Software Engineer](https://i.postimg.cc/vmS7CBpB/github-banner.png)
+[![githubprofile.png](https://i.postimg.cc/FFgcrYt1/githubprofile.png)](https://postimg.cc/WtztSb1P)
 
 # 💫 About Me:
 I'm a Front End Software Engineer who loves building new projects and exploring new technologies while being challenged. Let's work together and give solutions to your problems.
