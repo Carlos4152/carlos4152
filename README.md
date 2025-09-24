@@ -1,4 +1,4 @@
-[![github-banner.png](https://i.postimg.cc/8kyKtL3k/github-banner.png)](https://postimg.cc/pyFJd5R3)
+[![GITHUB-BANNER.png](https://i.postimg.cc/02NnqjR6/GITHUB-BANNER.png)](https://postimg.cc/23PhQz5m)
 
 # 💫 About Me:
 I'm a Front End Software Engineer who loves building new projects and exploring new technologies while being challenged. Let's work together and give solutions to your problems.
