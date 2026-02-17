@@ -15,7 +15,6 @@ I focus on:
 - Scalable backend architecture
 - End-to-end full stack solutions
 
----
 
 ## 🛠 Tech Stack
 
@@ -42,7 +41,6 @@ Tools & Other:
 - Google Analytics
 - Hotjar
 
----
 
 ## 📌 What I’m Currently Working On
 
@@ -51,7 +49,6 @@ Tools & Other:
 - Optimizing performance and security
 - Expanding cloud and deployment knowledge
 
----
 
 ## 🤝 Open To
 
@@ -60,7 +57,6 @@ Tools & Other:
 - Collaborations on SaaS products
 - Startup projects
 
----
 
 ## 📫 Connect With Me
 
