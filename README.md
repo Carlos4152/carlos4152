@@ -39,6 +39,8 @@ Tools & Other:
 - REST APIs
 - Google Maps API
 - Stripe Integration
+- Google Analytics
+- Hotjar
 
 ---
 
